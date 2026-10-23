@@ -89,6 +89,17 @@ can work through independently.
 
 ---
 
+## Certifications
+
+| Certification | Issuer |
+| :------------ | :----- |
+| **Certified Professional Programmer** | BNSP — Indonesian National Board for Professional Certification |
+| **Training of Data Scientist AI for Instructors & Lecturers** | Data Science & AI Program |
+| **Deep Learning Fundamentals & Deep Learning Data Science** | Deep Learning Research Centre |
+| **Getting Started with Deep Learning & Introduction to AI in Data Center** | NVIDIA Corporation |
+
+---
+
 ## GitHub in numbers
 
 <p align="center">
@@ -106,7 +117,6 @@ can work through independently.
 
 - 💻 **GitHub** — [@mahendartea](https://github.com/mahendartea)
 - 🌐 **Learning portal** — [mahendartea.github.io/Learn-AI](https://mahendartea.github.io/Learn-AI/)
-- ✉️ **Reach me** — open an issue on any repository above
 
 <div align="center">
 
