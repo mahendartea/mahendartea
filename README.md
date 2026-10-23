@@ -5,7 +5,7 @@
 <h1>Mahendar Dwi Payana</h1>
 
 <p>
-  <strong>Lecturer · Software Engineering &amp; Data</strong><br />
+  <strong>Software Architect · Educator</strong><br />
   Universitas Ubudiyah Indonesia
 </p>
 
@@ -23,14 +23,15 @@
 
 ## About
 
-I teach programming and data at **Universitas Ubudiyah Indonesia**, and I build the internal
-systems that support campus operations. Most of my lecture material lives here as open,
-self-paced course repositories — usually structured as **16-session curricula** that students
-can work through independently.
+I'm a software architect and educator with **10+ years** of experience designing and shipping
+enterprise, government, and academic platforms. I taught software engineering at
+**Universitas Ubudiyah Indonesia** for nine years and led its ICT division, and most of that
+lecture material now lives here as open, self-paced course repositories — usually structured
+as **16-session curricula** that students can work through independently.
 
-- 🎓 **Lecturer** — software engineering, web development, and data/AI
+- 🏗️ **Software architect** — enterprise, government, and campus systems
+- 🎓 **Educator** — nine years lecturing software engineering, databases, and AI
 - 📚 **Curriculum author** — Go, PHP, Python, and AI / Data Science tracks
-- 🧩 **Builder** — Next.js, Laravel, and Supabase for campus systems
 - 🌱 **Currently exploring** — Go backend architecture and AI-assisted engineering
 
 ---
@@ -53,10 +54,13 @@ can work through independently.
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 **Services & tooling**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
@@ -79,6 +83,31 @@ can work through independently.
 
 ---
 
+## Experience
+
+**Senior Lecturer & IT Expert** · Universitas Ubudiyah Indonesia<br />
+`Feb 2016 – May 2025` · Banda Aceh, Indonesia
+
+- Lectured software engineering, web development, database management, and artificial intelligence
+- Led university IT R&D projects, designed institutional software, and mentored student theses
+- Aligned the IT curriculum with industry standards and emerging technology
+
+**Head of ICT Division** · Universitas Ubudiyah Indonesia<br />
+`Feb 2016 – Jan 2025` · Banda Aceh, Indonesia
+
+- Oversaw institutional ICT operations, server infrastructure, campus networks, and database integrity
+- Architected campus-wide applications including the DAA academic portal, digital attendance, and HR systems
+
+**Web Developer & API Specialist** · Government & enterprise consultancies<br />
+`2010 – 2024` · Indonesia
+
+- **Dinas PUPR Bireuen (2024)** — Sispampro, an infrastructure programme monitoring system built with Laravel and WebGIS
+- **SIAT, Diskominfo Aceh (2023 – 2024)** — led web and API integration for provincial government services
+- **Malemdiwa.com & Lensakom (2019 – 2023)** — REST APIs, web applications, and content management structures
+- **DPRA (2010 – 2014)** — IT expert staff designing database and network solutions
+
+---
+
 ## Teaching & course material
 
 - **[golang-course](https://github.com/mahendartea/golang-course)** — Go from beginner to intermediate, 16 sessions
@@ -86,6 +115,13 @@ can work through independently.
 - **[php-mini-course](https://github.com/mahendartea/php-mini-course)** — PHP fundamentals for beginners
 - **[MetaCource-Python](https://github.com/mahendartea/MetaCource-Python)** — Python basics course
 - **[Learn-AI](https://github.com/mahendartea/Learn-AI)** — Data Science & AI curriculum and documentation
+
+---
+
+## Education
+
+- **Master of Technology (M.T.)** — Electrical Engineering, Information Technology focus · Syiah Kuala University (USK) · `2012 – 2015`
+- **Bachelor of Applied Science (S.ST.)** — Informatics Engineering / Computer Systems · Politeknik / Institut Penerbit · graduated with honors
 
 ---
 
@@ -97,6 +133,16 @@ can work through independently.
 | **Training of Data Scientist AI for Instructors & Lecturers** | Data Science & AI Program |
 | **Deep Learning Fundamentals & Deep Learning Data Science** | Deep Learning Research Centre |
 | **Getting Started with Deep Learning & Introduction to AI in Data Center** | NVIDIA Corporation |
+
+---
+
+## Selected publications
+
+- **Design of QR Code on Barber Shop Digital Payment System** — *Journal of Informatics & Computer Science*, 2026
+- **File Integrity-Based Forensic Analysis & Mitigation Strategy for SEO Spam Injection in WordPress** — *JICS*, 2025
+- **Development of Web-Based CRM System at PT PLN (Persero) UID Aceh Priority Account Division** — *JICS*, 2025
+- **Web Security Testing Against Deface & Redirect Injection Using OWASP ZAP** — *JICS*, 2025
+- **Study on Internet of Things Based Marine Entrepreneurship Development** — *At-Tasyri*, 2025
 
 ---
 
